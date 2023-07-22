@@ -1,7 +1,7 @@
-# FaceImage_Emotion_Detection
-**Emotion Detection from Image using CNN (VGG-16)**
+## Emotion Detection from Image using CNN (VGG-16)
 
-![Emotion Detection](emotion_detection.png)
+![Emotion Detection](emotiondetection.png)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
