@@ -102,4 +102,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) 
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact me at [Click Here](mailto:nahidsheikh2001@gmail.com). Happy coding!
+If you have any questions or suggestions, please feel free to contact me at [Here](mailto:nahidsheikh2001@gmail.com). Happy coding!
