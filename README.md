@@ -1,6 +1,6 @@
 ## Emotion Detection from Image using CNN (VGG-16)
 
-![Emotion Detection](emotiondetection.png)
+![Emotion Detection](emotiondetection.jpg)
 
 
 ## Table of Contents
@@ -75,8 +75,8 @@ To run this project, you need the following dependencies:
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/your_username/emotion_detection.git`
-2. Navigate to the project directory: `cd emotion_detection`
+1. Clone this repository: `https://github.com/73-sk-nahid/FaceImage_Emotion_Detection.git`
+2. Navigate to the project directory: `cd FaceImage_Emotion_Detection`
 3. Install the required packages: `pip install -r requirements.txt`
 
 ## Usage
@@ -102,4 +102,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact me at [your_email@example.com](mailto:your_email@example.com). Happy coding!
+If you have any questions or suggestions, please feel free to contact me at [nahidsheikh2001@gmail.com](mailto:nahidsheikh2001@gmail.com). Happy coding!
